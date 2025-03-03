@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @TheGrandGemini
-- 👀 I’m interested in learning full stack Development 
-- 🌱 I’m currently learning front end development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Reach me on twitter: @the_grandgemini
+-Front-end developer exploring React and Web3 technologies. Passionate about building sleek, high-performance interfaces. Always learning and sharing knowledge.
+- 📫 How to reach me: Reach me on X: @0xgemini0
 
 <!---
 TheGrandGemini/TheGrandGemini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
