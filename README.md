@@ -42,8 +42,8 @@ Focused on Web3, performance, and precision-built UI.
 <h2><b>Contact</b></h2>
 
 <ul>
-  <li><b>Portfolio:</b> Coming soon</li>
-  <li><b>Email:</b> add yours</li>
-  <li><b>X (Twitter):</b> add yours</li>
-  <li><b>Calendly:</b> add yours</li>
+  <li><b>Portfolio:</b> https://0xgemini.vercel.app/</li>
+  <li><b>Email:</b> thegrandgemini@gmail.com</li>
+  <li><b>X (Twitter):</b> https://x.com/0xgemini0</li>
+  <li><b>Calendly:</b> https://calendly.com/thegrandgemini/30min</li>
 </ul>
